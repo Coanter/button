@@ -1,3 +1,17 @@
-.my-button{
+.my-button--primary{
+    background: royalblue;
+    color: white;
+    border: none;
+
+}
+
+.my-button--primary:hover{
+    background: darkblue;
+}
+
+.my-button--bordered{
+    background: royalblue;
+    color: white;
+    border: none;
     
 }
